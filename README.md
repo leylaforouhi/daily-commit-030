@@ -1,4 +1,4 @@
-import random
+import rando
 
 def coin_toss():
     return "Heads" if random.choice([True, False]) else "Tails"
